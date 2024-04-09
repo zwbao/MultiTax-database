@@ -1,4 +1,4 @@
-# MultiTax GitHub Repository README
+# MultiTax
 
 ## Description
 
@@ -55,8 +55,6 @@ This project is licensed under the MIT License.
 ## Citation
 
 Please cite the following publication when using MultiTax in your research:
-
-[Details of the publication to be added here, including authors, title, journal, and year]
 
 ## Contact
 
