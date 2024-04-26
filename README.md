@@ -9,18 +9,18 @@ MultiTax-human is an extensive and high-resolution human-related full-length 16s
 The MultiTax reference database and the specialized MultiTax-human database can be downloaded from Google Drive:
 
 - **MultiTax reference database**:
-  - Sequence file: `merge_uniques.relabel.fasta` https://drive.google.com/file/d/1z-V5bUKoUZKwMP1hanGDxJy4N4a6fqOp/view?usp=drive_link
-  - Index file: `merge_database.udb` https://drive.google.com/file/d/1ZeTkp_tsOhCQ9xbfwvhdwA_Sj0oh_R0t/view?usp=drive_link
-  - Annotation file: `uc_list.tsv` https://drive.google.com/file/d/1MyAWJBBHcJ5kMvAAdgOLq4CkBusuCVd9/view?usp=drive_link
+  - Sequence file: `merge_uniques.relabel.fasta` [https://drive.google.com/file/d/1z-V5bUKoUZKwMP1hanGDxJy4N4a6fqOp/view?usp=drive_link](https://drive.google.com/file/d/1z-V5bUKoUZKwMP1hanGDxJy4N4a6fqOp/view?usp=sharing)
+  - Index file: `merge_database.udb` [https://drive.google.com/file/d/1ZeTkp_tsOhCQ9xbfwvhdwA_Sj0oh_R0t/view?usp=drive_link](https://drive.google.com/file/d/1ZeTkp_tsOhCQ9xbfwvhdwA_Sj0oh_R0t/view?usp=sharing)
+  - Annotation file: `uc_list.tsv` [https://drive.google.com/file/d/1MyAWJBBHcJ5kMvAAdgOLq4CkBusuCVd9/view?usp=drive_link](https://drive.google.com/file/d/1MyAWJBBHcJ5kMvAAdgOLq4CkBusuCVd9/view?usp=sharing)
 
 - **MultiTax-human database**:
-  - Sequence file: `merged_human_all.fasta` https://drive.google.com/file/d/1faElqEKYd-OefOuhB3B36Xwup_6Y9ubz/view?usp=drive_link
-  - Index file: `merged_human_all.udb` https://drive.google.com/file/d/1AzaPpqBILf125iPTebFaqfNxkICJoG5C/view?usp=drive_link
-  - Annotation file: `other_uc_dict_human_anno.tsv` https://drive.google.com/file/d/17MvIvVnuv3lrmTT_bjLWWudCw8wafQ_k/view?usp=drive_link
+  - Sequence file: `merged_human_all.fasta` [https://drive.google.com/file/d/1faElqEKYd-OefOuhB3B36Xwup_6Y9ubz/view?usp=drive_link](https://drive.google.com/file/d/1faElqEKYd-OefOuhB3B36Xwup_6Y9ubz/view?usp=sharing)
+  - Index file: `merged_human_all.udb` [https://drive.google.com/file/d/1AzaPpqBILf125iPTebFaqfNxkICJoG5C/view?usp=drive_link](https://drive.google.com/file/d/1AzaPpqBILf125iPTebFaqfNxkICJoG5C/view?usp=sharing)
+  - Annotation file: `other_uc_dict_human_anno.tsv` [https://drive.google.com/file/d/17MvIvVnuv3lrmTT_bjLWWudCw8wafQ_k/view?usp=drive_link](https://drive.google.com/file/d/17MvIvVnuv3lrmTT_bjLWWudCw8wafQ_k/view?usp=sharing)
 
 - **MultiTax-human-H120_add database**:
   - Sequence file: `merged_human_all_H120.fasta` https://www.dropbox.com/scl/fi/wzdur7dn07axm682l2oi4/merged_human_all_H120.fasta?rlkey=wnv8ljehkf8z0a4klczwsds6r&dl=0
-  - Annotation file: `human_anno_H120_filt.tsv` https://drive.google.com/file/d/1wISulgkn3AhfT5G5GwRQSwcsTYvw1VYb/view?usp=drive_link
+  - Annotation file: `human_anno_H120_filt.tsv` [https://drive.google.com/file/d/1wISulgkn3AhfT5G5GwRQSwcsTYvw1VYb/view?usp=drive_link](https://drive.google.com/file/d/1wISulgkn3AhfT5G5GwRQSwcsTYvw1VYb/view?usp=sharing)
 
 ## Usage Recommendations for Real Samples
 
