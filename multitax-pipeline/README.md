@@ -203,7 +203,7 @@ print(f"out: {out_file_count} reads")
 print(f"filter: {in_file_count-out_file_count} reads")
 ```
 
-## Merge Process
+## Merge databases
 
 After filtering sequences from each database, they are merged into a comprehensive dataset for further analysis.
 
